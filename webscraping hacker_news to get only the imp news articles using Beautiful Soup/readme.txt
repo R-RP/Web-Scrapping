@@ -1,0 +1,2 @@
+This Program is to webscrap hacker news (https://news.ycombinator.com/) and to get only the important articles from the website based on the votes of the news article.
+Our program gives us only the news article which has votes more than 100 and we can also choose how many no.of.pages we want to scrap.
